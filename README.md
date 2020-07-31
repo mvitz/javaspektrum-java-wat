@@ -3,7 +3,8 @@
 **Wat? That's pssoble with Java?**
 
 These examples were written for my german [JavaSPEKTRUM](http://www.javaspektrum.de/)
-article "Der Praktiker: - ".
+article "Der Praktiker: Unbekannte Besonderheiten von Java - Was? Das geht mit
+Java?".
 
 
 ## License
