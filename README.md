@@ -6,6 +6,9 @@ These examples were written for my german [JavaSPEKTRUM](http://www.javaspektrum
 article "Der Praktiker: Unbekannte Besonderheiten von Java - Was? Das geht mit
 Java?".
 
+you can read it online [here](https://www.innoq.com/de/articles/2020/09/java-wat/)
+or download as pdf [here](http://www.sigs.de/publications/download/Artikel/vitz_JS_04_20_jjhj.pdf).
+
 
 ## License
 
